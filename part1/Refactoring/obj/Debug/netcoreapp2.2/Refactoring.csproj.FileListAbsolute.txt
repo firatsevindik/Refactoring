@@ -1,0 +1,10 @@
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\bin\Debug\netcoreapp2.2\Refactoring.deps.json
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\bin\Debug\netcoreapp2.2\Refactoring.runtimeconfig.json
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\bin\Debug\netcoreapp2.2\Refactoring.runtimeconfig.dev.json
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\bin\Debug\netcoreapp2.2\Refactoring.dll
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\bin\Debug\netcoreapp2.2\Refactoring.pdb
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\obj\Debug\netcoreapp2.2\Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\obj\Debug\netcoreapp2.2\Refactoring.AssemblyInfoInputs.cache
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\obj\Debug\netcoreapp2.2\Refactoring.AssemblyInfo.cs
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\obj\Debug\netcoreapp2.2\Refactoring.dll
+C:\Users\Fırat\Documents\Development\NetMvc\Samples\Refactoring\Refactoring\Refactoring\obj\Debug\netcoreapp2.2\Refactoring.pdb
